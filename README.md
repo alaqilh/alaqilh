@@ -4,5 +4,5 @@
 ### Hi there 👋
 
 - 🤖 I’m currently working on front-end
-- 😍 I’m a Google DSC Founder&Lead
+- 😍 I’m a Google DSC Founder&Leader
 
