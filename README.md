@@ -3,6 +3,6 @@
 
 ### Hi there 👋
 
-- 🤖 I’m currently working on front-end
-- 😍 I’m a Google DSC Founder&Leader
+- 🤖 I’m a Computer Information System Student
+- 😍 I’m a Google DSC Founder
 
